@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 7: invalid syntax
+    Character("Blair", 1A0087)
+                             ^
+
+File "game/script.rpy", line 8: invalid syntax
+    Character("Ruby", 5A0000)
+                            ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Sun Feb  6 14:37:14 2022
